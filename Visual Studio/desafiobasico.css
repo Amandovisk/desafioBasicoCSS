@@ -1,0 +1,35 @@
+#foto-principal{
+background-image:url(../Visual\ Studio/backgorund.png);
+background-repeat: no-repeat;
+/*box-sizing: border-box;*/
+background-position: center;
+background-size: 400px 200px;
+width: 400px; height: 200px;
+margin: auto;
+margin-top: 15%;
+}
+
+body{
+    background-color: black;
+}
+
+.instagram{ 
+    List-style-image: url(./insta.png); 
+}
+
+.twitter{
+    List-style-image: url(./twitter.png);
+}
+
+.youtube{
+    List-style-image: url(./youtube.png)
+}
+
+.fonte{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 27px;
+}
+a{
+    Text-decoration: none;
+    Color: black;
+}
